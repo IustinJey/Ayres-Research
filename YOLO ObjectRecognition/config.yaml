@@ -1,0 +1,8 @@
+path: C:\Users\Gabriel\Desktop\Cursuri + Carti\Practica AYRES\ObjRecognitionYOLO\pythonProject\Data  # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: val/images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: car
+  1: number_plate
